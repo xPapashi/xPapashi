@@ -1,5 +1,14 @@
-## Hi there 👋
+![](https://komarev.com/ghpvc/?username=xPapashi)
 
+[Portfolio](https://www.danieltomkowski.pl/)
+
+## Hi there 👋, I'm Daniel
+
+### I am a React Developer from Poland
+
+I’m passionate about programming, particularly in **JavaScript**, with a strong focus on **React**, though I'm always eager to learn and work with other technologies as well.
+
+⚡Currently, I am advancing my skills towards becoming a Fullstack Developer.
 <!--
 **xPapashi/xPapashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
